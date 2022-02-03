@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @x2brute
+- 👀 I’m interested in 3d printing, retro nintendo handhelds and consoles
+- 🌱 I’m currently learning lots of things but trying to learn pcb design
+- 💞️ I’m looking to collaborate on a USB-C charger for the Game Boy Micro that still supports link cables (with an adapter)
+- 📫 How to reach me x2brute@gmail.com
